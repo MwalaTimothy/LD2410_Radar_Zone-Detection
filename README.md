@@ -13,7 +13,7 @@ This project utilizes the **LD2410C radar sensor** for zone-based presence detec
 
 ### Components:
 - **LD2410C Radar Sensor**: For presence and motion detection.
-- **ESP32**: The microcontroller that handles Wi-Fi, radar communication, and WLED control.
+- **Carenuity_C3-Mini**: The microcontroller that handles Wi-Fi, radar communication, and WLED control. [STORE](https://www.chipglobe.shop/) 
 - **OLED Display (SSD1306)**: Displays real-time detection and zone information.
 - **WLED**: A lighting control system controlled via Wi-Fi.
 
